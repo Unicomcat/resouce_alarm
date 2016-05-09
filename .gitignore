@@ -14,8 +14,8 @@ gen/
 
 
 # no xls
-*.xls
-*.xlsx
+#*.xls
+#*.xlsx
 # with no build file
 build/
 dist/
