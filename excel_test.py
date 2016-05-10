@@ -6,7 +6,8 @@ import xdrlib, sys
 import os
 
 style_tmp = 'font: name Times New Roman'
-GGSN_device_list = [u'GGSN7', u'GGSN8', u'GGSN9', u'GGSN10', u'GGSN11', u'GGSN4-1', u'GGSN12', u'GGSN13',u'GGSN14',u'GGSN15']
+#GGSN_device_list = [u'GGSN7', u'GGSN8', u'GGSN9', u'GGSN10', u'GGSN11', u'GGSN4-1', u'GGSN12', u'GGSN13',u'GGSN14',u'GGSN15']
+GGSN_device_list = [u'UGW7', u'UGW8', u'UGW9', u'UGW10', u'UGW11', u'UGW4-1', u'UGW12', u'UGW13',u'UGW14',u'UGW15']
 SGSN_device_list = [u'SGSN5', u'SGSN6', u'SGSN7', u'SGSN8', u'SGSN9', u'SGSN11',u'SGSN14',u'SGSN15']
 ####################################
 ############读取现有xls#############
